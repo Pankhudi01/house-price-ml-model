@@ -1,12 +1,12 @@
 # Real Estate Price Prediction using Machine Learning
-This project predicts house/real estate prices using machine learning models in Python.  
-It covers data cleaning, exploratory data analysis (EDA), feature engineering, and model training through hyperparameter tuning with Scikit-learn.
+This project predicts residential property prices using machine learning models in Python. It covers data cleaning, exploratory data analysis (EDA), feature engineering, model training, and hyperparameter tuning using Scikit-learn.
 
 ## Features
-- End-to-end ML pipeline (data preprocessing → model training → evaluation)
-- Implemented **Linear Regression, Lasso and Decision Tree Regressor**
-- Hyperparameter tuning with `GridSearchCV`
-- Achieved **R² = 0.81** on test set
+- End-to-end ML pipeline (data preprocessing → feature engineering → model training → evaluation)
+- Implemented Linear Regression and Decision Tree Regressor models
+- Applied feature engineering to improve model performance
+- Achieved R² = 0.89 on the test set
+- Optimised model performance using Scikit-learn pipelines and hyperparameter tuning
 - Visualizations with Matplotlib & Seaborn
 
 ## Project Structure
